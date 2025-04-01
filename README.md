@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello! I'm Matt.
 
-<!--
-**matt-yale/matt-yale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=matt-yale&label=Views&color=0d74e7 "matt-yale | Profile Views")
+[![GitHub](https://img.shields.io/badge/-GitHub-x?logo=github&color=0d74e7 "Matthew Yale | GitHub")](https://github.com/matt-yale)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-x?logo=Linkedin&color=0d74e7 "Matthew Yale | Linkedin")](https://www.linkedin.com/in/matthew-yale/)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Matthew Yale](docs/me.jpg "Matthew Yale")
+
+I am a 28 year old Technical Solutions Engineer based in Upstate New York.
+
+- 🔭 I currently work as a Senior Engineer for xOverTime on client-facing projects.
+- 🌱 I am working to improve my Software Development skills!
