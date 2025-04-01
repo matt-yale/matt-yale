@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Matt.
 
 <!--- Profile Badges --->
-![Views](https://komarev.com/ghpvc/?username=matt-yale&label=Views "Profile Views")
+![Views](https://komarev.com/ghpvc/?username=matt-yale&label=Views&color=0d74e7 "Profile Views")
 [![GitHub](https://img.shields.io/badge/GitHub-matt--yale-0d74e7?logo=github "@matt-yale | GitHub")](https://github.com/matt-yale)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Matthew_Yale-0d74e7 "Matthew Yale | Linkedin")](https://www.linkedin.com/in/matthew-yale/)
 [![Email](https://img.shields.io/badge/Gmail-mattcyale@gmail.com-0d74e7?logo=gmail "Email Me!")](mailto:mattcyale@gmail.com)
