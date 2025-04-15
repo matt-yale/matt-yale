@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Matt.
+# 👋 Hello! I'm Matt
 
 <!--- Profile Badges --->
 ![Views](https://komarev.com/ghpvc/?username=matt-yale&label=Views&color=0d74e7 "Profile Views")
@@ -10,7 +10,7 @@
 
 ![Matthew Yale](docs/me.jpg "Matthew Yale")
 
-I am a 28 year old Technical Solutions Engineer based in Upstate New York.
+I am a Technical Solutions Engineer based in Upstate New York.
 
 - 🔭 I currently work as a Senior Engineer for xOverTime on client-facing projects.
 - 🌱 I am working to improve my Software Development skills!
